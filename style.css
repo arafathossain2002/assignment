@@ -1,0 +1,23 @@
+body{
+    
+}
+h1{
+color: crimson;
+text-align: center;
+    
+}
+h2{
+    color: crimson;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.p-color{
+    color: rgb(21, 236, 39);
+}
+button{
+    color: crimson;
+    background-color: chartreuse;
+    padding: 10px;
+}
